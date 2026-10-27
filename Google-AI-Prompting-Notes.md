@@ -27,9 +27,7 @@ Generative AI can create or transform text, images, audio, video, and code. Diff
 
 ### What is prompting? How do modalities affect the tool you choose?
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Generative AI: Input to Output — original learning diagram](images/01-generative-ai-modalities.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -67,9 +65,7 @@ ChatGPT, Midjourney, Craiyon, or an image generation bot in Poe, DALL-E
 
 ### Remember: “Thoughtfully Create Really Excellent Inputs.”
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Building a Clear Prompt — original learning diagram](images/02-prompt-framework.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -131,9 +127,7 @@ Start with a simple prompt, evaluate the response, then refine the task, persona
 
 ### My robotics-kit quarterly planning exercise
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Prompt Iteration Cycle — original learning diagram](images/03-prompt-iteration.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -228,9 +222,7 @@ Use the framework to create practical plans. Specify dates, budget, family needs
 
 ### My Banff trip planning prompt
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Planning with AI — original learning diagram](images/04-planning-with-ai.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -291,9 +283,7 @@ Four iteration techniques: (1) revisit the framework, (2) break complex requests
 
 ### My school study-plan prompt
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Improve an AI Response — original learning diagram](images/05-improving-outputs.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -363,9 +353,7 @@ For image prompts, specify subject, composition, size, colours, style, and inten
 
 ### My Delaram Cakery logo prompt
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Multimodal Prompting — original learning diagram](images/06-multimodal-prompts.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -468,9 +456,7 @@ Check generated output for hallucinations, bias, privacy issues, and relevance. 
 
 ### Responsible prompting checklist
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Responsible AI Checklist — original learning diagram](images/07-responsible-ai.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -556,9 +542,7 @@ Apply AI to email drafting, tone adjustment, brainstorming, schedules, tables, m
 
 ### Practice material and notes
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![AI for Everyday Work — original learning diagram](images/08-workplace-tasks.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -773,9 +757,7 @@ Use AI to help explore spreadsheets, clean or explain data, develop code, plan v
 
 ### Data and presentation exercises
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![AI-Assisted Data Analysis — original learning diagram](images/09-data-analysis.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
@@ -1178,9 +1160,7 @@ For long or complex work, use **prompt chaining**: divide a larger task into lin
 
 ### Advanced prompting notes
 
-> **Visual:** Add the matching course screenshot in `images/` and replace the placeholder below with a real image link.
-
-<!-- Example: ![Prompt framework screenshot](images/prompt-framework.png) -->
+![Prompt Chaining and Collaboration — original learning diagram](images/10-creative-partner.png)
 
 <details>
 <summary>Expand original notes and practice examples</summary>
