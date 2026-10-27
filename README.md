@@ -5,7 +5,7 @@ A structured collection of my personal learning notes, prompt experiments, and r
 ## Explore
 
 - [Read the organized notes](Google-AI-Prompting-Notes.md)
-- [Add screenshots](images/README.md)
+
 
 ## Topics
 
